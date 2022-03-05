@@ -1,0 +1,25 @@
+{
+  "name": "team-profiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dieres2010/Team-profiler.git"
+  },
+  "author": "Diego Restrepo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dieres2010/Team-profiler/issues"
+  },
+  "homepage": "https://github.com/dieres2010/Team-profiler#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
