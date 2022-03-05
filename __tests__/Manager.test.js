@@ -5,6 +5,6 @@ test("Create manager via constructor", () => {
 
   expect(manager.name).toBe('Diego');
   expect(manager.id).toEqual(expect.any(Number));
-  expect(manager.email).toBe(String);
-  expect(manager.officeNbr).toBe(String);
+  expect(manager.email).toEqual(expect.any(String));
+  expect(manager.officeNbr).toEqual(expect.any(String));
 });
