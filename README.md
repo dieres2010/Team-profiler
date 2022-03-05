@@ -30,4 +30,4 @@ THEN I exit the application, and the HTML is generated
 
 The following image shows the generated HTML’s appearance and functionality. The styling in the image is just an example, so feel free to add your own styles:
 
-![Mock-up](./images/mock-up.png)
+![Mock-up](./images/Mock-up.png)
