@@ -102,7 +102,7 @@ function addMbrHtml(member) {
             <h5 class="card-header text-light bg-primary">${mbrName}<br /><br />Intern</h5>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">ID: ${mbrId}</li>
-                <li class="list-group-item">Email: ${mbrEmail}</li>
+                <li class="list-group-item">Email:<a href='mailto:${mbrEmail}'>${mbrEmail}</a></li> 
                 <li class="list-group-item">School: ${mbrSchool}</li>
             </ul>
             </div>
@@ -114,7 +114,7 @@ function addMbrHtml(member) {
             <h5 class="card-header text-light bg-primary">${mbrName}<br /><br />Manager</h5>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">ID: ${mbrId}</li>
-                <li class="list-group-item">Email: ${mbrEmail}</li>
+                <li class="list-group-item">Email:<a href='mailto:${mbrEmail}'>${mbrEmail}</a></li> 
                 <li class="list-group-item">Office Number: ${mbrPhone}</li>
             </ul>
             </div>
