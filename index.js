@@ -90,8 +90,8 @@ function addMbrHtml(member) {
             <h5 class="card-header text-light bg-primary">${mbrName}<br /><br />Engineer</h5>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">ID: ${mbrId}</li>
-                <li class="list-group-item">Email: ${mbrEmail}</li>
-                <li class="list-group-item">GitHub: ${mbrGitHub}</li>
+                <li class="list-group-item">Email:<a href='mailto:${mbrEmail}'>${mbrEmail}</a></li>                
+                <li class="list-group-item">GitHub:<a href='https://github.com/${mbrGitHub}'>${mbrGitHub}</a></li>
             </ul>
             </div>
         </div>`;
