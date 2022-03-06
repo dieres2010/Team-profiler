@@ -44,6 +44,10 @@ The following image shows the generated HTML’s appearance and functionality. T
 
 ![Video WEBM](./Video/Team-Profiler.webm)
 
+## Link to Walkthrough Video
+
+https://drive.google.com/file/d/1fTpIrtKMFLZeIHLJbbXG39GmcRJtgy98/view
+
 ## Github Reposotiry URL
 
 https://github.com/dieres2010/Team-profiler.git
